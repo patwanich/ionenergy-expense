@@ -1,0 +1,216 @@
+@font-face {
+    font-family: 'Sonny Cond';
+    src: url('SonnyCond-BlackItalic.eot');
+    src: local('Sonny Cond Black Italic'), local('SonnyCond-BlackItalic'),
+        url('SonnyCond-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('SonnyCond-BlackItalic.woff2') format('woff2'),
+        url('SonnyCond-BlackItalic.woff') format('woff'),
+        url('SonnyCond-BlackItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Sonny Cond';
+    src: url('SonnyCond-Thin.eot');
+    src: local('Sonny Cond Thin'), local('SonnyCond-Thin'),
+        url('SonnyCond-Thin.eot?#iefix') format('embedded-opentype'),
+        url('SonnyCond-Thin.woff2') format('woff2'),
+        url('SonnyCond-Thin.woff') format('woff'),
+        url('SonnyCond-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Sonny Cond';
+    src: url('SonnyCond-Regular.eot');
+    src: local('Sonny Cond Regular'), local('SonnyCond-Regular'),
+        url('SonnyCond-Regular.eot?#iefix') format('embedded-opentype'),
+        url('SonnyCond-Regular.woff2') format('woff2'),
+        url('SonnyCond-Regular.woff') format('woff'),
+        url('SonnyCond-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Sonny Cond';
+    src: url('SonnyCond-Bold.eot');
+    src: local('Sonny Cond Bold'), local('SonnyCond-Bold'),
+        url('SonnyCond-Bold.eot?#iefix') format('embedded-opentype'),
+        url('SonnyCond-Bold.woff2') format('woff2'),
+        url('SonnyCond-Bold.woff') format('woff'),
+        url('SonnyCond-Bold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Sonny Cond Extra';
+    src: url('SonnyCond-ExtraBold.eot');
+    src: local('Sonny Cond Extra Bold'), local('SonnyCond-ExtraBold'),
+        url('SonnyCond-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('SonnyCond-ExtraBold.woff2') format('woff2'),
+        url('SonnyCond-ExtraBold.woff') format('woff'),
+        url('SonnyCond-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Sonny Cond';
+    src: url('SonnyCond-Black.eot');
+    src: local('Sonny Cond Black'), local('SonnyCond-Black'),
+        url('SonnyCond-Black.eot?#iefix') format('embedded-opentype'),
+        url('SonnyCond-Black.woff2') format('woff2'),
+        url('SonnyCond-Black.woff') format('woff'),
+        url('SonnyCond-Black.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Sonny Cond';
+    src: url('SonnyCond-BoldItalic.eot');
+    src: local('Sonny Cond Bold Italic'), local('SonnyCond-BoldItalic'),
+        url('SonnyCond-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('SonnyCond-BoldItalic.woff2') format('woff2'),
+        url('SonnyCond-BoldItalic.woff') format('woff'),
+        url('SonnyCond-BoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Sonny Cond Ultra';
+    src: url('SonnyCond-UltraLightItalic.eot');
+    src: local('Sonny Cond Ultra Light Italic'), local('SonnyCond-UltraLightItalic'),
+        url('SonnyCond-UltraLightItalic.eot?#iefix') format('embedded-opentype'),
+        url('SonnyCond-UltraLightItalic.woff2') format('woff2'),
+        url('SonnyCond-UltraLightItalic.woff') format('woff'),
+        url('SonnyCond-UltraLightItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Sonny Cond';
+    src: url('SonnyCond-Light.eot');
+    src: local('Sonny Cond Light'), local('SonnyCond-Light'),
+        url('SonnyCond-Light.eot?#iefix') format('embedded-opentype'),
+        url('SonnyCond-Light.woff2') format('woff2'),
+        url('SonnyCond-Light.woff') format('woff'),
+        url('SonnyCond-Light.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Sonny Cond';
+    src: url('SonnyCond-RegularItalic.eot');
+    src: local('Sonny Cond Regular Italic'), local('SonnyCond-RegularItalic'),
+        url('SonnyCond-RegularItalic.eot?#iefix') format('embedded-opentype'),
+        url('SonnyCond-RegularItalic.woff2') format('woff2'),
+        url('SonnyCond-RegularItalic.woff') format('woff'),
+        url('SonnyCond-RegularItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Sonny Cond';
+    src: url('SonnyCond-LightItalic.eot');
+    src: local('Sonny Cond Light Italic'), local('SonnyCond-LightItalic'),
+        url('SonnyCond-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('SonnyCond-LightItalic.woff2') format('woff2'),
+        url('SonnyCond-LightItalic.woff') format('woff'),
+        url('SonnyCond-LightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Sonny Cond Extra';
+    src: url('SonnyCond-ExtraBoldItalic.eot');
+    src: local('Sonny Cond Extra Bold Italic'), local('SonnyCond-ExtraBoldItalic'),
+        url('SonnyCond-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('SonnyCond-ExtraBoldItalic.woff2') format('woff2'),
+        url('SonnyCond-ExtraBoldItalic.woff') format('woff'),
+        url('SonnyCond-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Sonny Cond Book';
+    src: url('SonnyCond-Book.eot');
+    src: local('Sonny Cond Book'), local('SonnyCond-Book'),
+        url('SonnyCond-Book.eot?#iefix') format('embedded-opentype'),
+        url('SonnyCond-Book.woff2') format('woff2'),
+        url('SonnyCond-Book.woff') format('woff'),
+        url('SonnyCond-Book.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Sonny Cond Ultra';
+    src: url('SonnyCond-UltraBlack.eot');
+    src: local('Sonny Cond Ultra Black'), local('SonnyCond-UltraBlack'),
+        url('SonnyCond-UltraBlack.eot?#iefix') format('embedded-opentype'),
+        url('SonnyCond-UltraBlack.woff2') format('woff2'),
+        url('SonnyCond-UltraBlack.woff') format('woff'),
+        url('SonnyCond-UltraBlack.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Sonny Cond Book';
+    src: url('SonnyCond-BookItalic.eot');
+    src: local('Sonny Cond Book Italic'), local('SonnyCond-BookItalic'),
+        url('SonnyCond-BookItalic.eot?#iefix') format('embedded-opentype'),
+        url('SonnyCond-BookItalic.woff2') format('woff2'),
+        url('SonnyCond-BookItalic.woff') format('woff'),
+        url('SonnyCond-BookItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Sonny Cond';
+    src: url('SonnyCond-ThinItalic.eot');
+    src: local('Sonny Cond Thin Italic'), local('SonnyCond-ThinItalic'),
+        url('SonnyCond-ThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('SonnyCond-ThinItalic.woff2') format('woff2'),
+        url('SonnyCond-ThinItalic.woff') format('woff'),
+        url('SonnyCond-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Sonny Cond Ultra';
+    src: url('SonnyCond-UltraLight.eot');
+    src: local('Sonny Cond Ultra Light'), local('SonnyCond-UltraLight'),
+        url('SonnyCond-UltraLight.eot?#iefix') format('embedded-opentype'),
+        url('SonnyCond-UltraLight.woff2') format('woff2'),
+        url('SonnyCond-UltraLight.woff') format('woff'),
+        url('SonnyCond-UltraLight.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Sonny Cond Ultra';
+    src: url('SonnyCond-UltraBlackItalic.eot');
+    src: local('Sonny Cond Ultra Black Italic'), local('SonnyCond-UltraBlackItalic'),
+        url('SonnyCond-UltraBlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('SonnyCond-UltraBlackItalic.woff2') format('woff2'),
+        url('SonnyCond-UltraBlackItalic.woff') format('woff'),
+        url('SonnyCond-UltraBlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
